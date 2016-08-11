@@ -1,0 +1,13 @@
+{
+  "name": "Butt Min Stack Flow",
+  "version": "1.0.0",
+  "description": "Flow the stack butt",
+  "main": "server.js",
+  "scipts": {
+    "start": "node server.js",
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+
+}
